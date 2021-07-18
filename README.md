@@ -1,2 +1,4 @@
 # hello-world
-my first repo
+Hi! 
+
+My name is Artur!
